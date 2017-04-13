@@ -67,3 +67,4 @@ The 'run_analysis.R' code will do the following:
 10) Every variable-name averaged in step 9 gets a 'Mean' postfix
 11) The resulting table (with a dimension of 180 rows X 68 columns) will be written to file ('result.txt')
 
+# data-cleaning-w4-project
